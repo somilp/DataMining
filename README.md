@@ -1,6 +1,6 @@
 # Data Mining
-Compilation of my solutions to data mining module exercises
-Below is an outline of the topics/tools covered in each of the assignments
+Compilation of my solutions to data mining module exercises.
+Below is an outline of the topics/tools covered in each of the assignments.
 Libraries used include: beautiful soup, cubes, matplotlib, numpy, pandas, scikit-learn, scipy, seaborn
 
 
